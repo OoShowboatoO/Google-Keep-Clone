@@ -1,4 +1,4 @@
-# Google-Keep-Clone
+# Keeper
 
 ![Project Screenshot](./Keeper_Screenshot.png)
 
